@@ -2,5 +2,4 @@
 don't mind,it's a repositary where a newbie tries learning
 
 
-
-5okok
+6okok
